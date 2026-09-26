@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-uk-planning-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "UK planning designations from planning.data.gov.uk, the MHCLG national planning data platform: look up any point in England and get the conservation areas, listed buildings, article 4 directions, green belt, brownfield land, flood risk zones and tree preservation zones that cover it.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2ff496ef9968a47664ae0fffc4c4ccceb5fcabc1a915823efc900bb362894c79",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-84080fe667d89914cf87658f3966ecf39c1c7485e0c3c07a925dbeefc5ce72f6",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
